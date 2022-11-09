@@ -7,6 +7,7 @@ public class Assignment2 {
 	public static void main(String[] args) {
 
 		Assignment_02_01(); // Array_duplicates
+		Assignment_02_01();
 	}
 
 	public static void Assignment_02_01() { // Array_duplicates
